@@ -3,27 +3,27 @@
 lege repository die je als template kan gebruiken om een eigen repository te starten voor uw linefollower project
 <br />
 <br />
-[picture]
+![image](https://user-images.githubusercontent.com/114883234/208109860-6790c813-ef78-400e-b271-799d9b29144b.png)
 <br />
 <br />
   
 ## specifications
 <br />
-microcontroller:
+microcontroller:arduino leonardo
 <br />
-motors: 
+motors: 6V 50:1 metal DC motor
 <br />
-h-bridge:
+h-bridge: DRV8835
 <br />
-sensors:
+sensors: QTR-8A
 <br />
-batteries:
+batteries: 2x Tenpower INR18650-28HE 2800mAh - 10A
 <br />
-wireless communication:
+wireless communication: HC-05 module
 <br />
-distance sensor - motors:
+distance sensor - motors: 12,5cm
 <br />
-weight:
+weight:220g
 <br />
-speed: 
+speed: 0,44m/s
 <br />
